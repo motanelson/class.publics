@@ -1,1 +1,1 @@
-class methods publics
+Console time clock text
