@@ -7,7 +7,7 @@ class viewclock
     {
         DateTime now = DateTime.Now;
         Console.SetCursorPosition(x, y);
-        Console.WriteLine(s+now.ToString());
+        Console.WriteLine(s+now.ToString()+"      ");
     
     
     }
